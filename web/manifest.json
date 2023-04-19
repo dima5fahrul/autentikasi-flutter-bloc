@@ -1,6 +1,6 @@
 {
-    "name": "authentication_flutter_bloc",
-    "short_name": "authentication_flutter_bloc",
+    "name": "authentication_flutter_firebase_bloc",
+    "short_name": "authentication_flutter_firebase_bloc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

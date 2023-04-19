@@ -1,9 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.authentication_flutter_bloc">
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    package="com.example.authentication_flutter_firebase_bloc">
    <application
-        android:label="authentication_flutter_bloc"
+        android:label="authentication_flutter_firebase_bloc"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

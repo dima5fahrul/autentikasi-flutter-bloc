@@ -1,4 +1,4 @@
-# authentication_flutter_bloc
+# authentication_flutter_firebase_bloc
 
 A new Flutter project.
 

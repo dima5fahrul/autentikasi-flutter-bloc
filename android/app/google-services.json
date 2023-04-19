@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:645183196811:android:69ea36032703ae460a4e8e",
+        "mobilesdk_app_id": "1:645183196811:android:87c70d1689d17a8b0a4e8e",
         "android_client_info": {
-          "package_name": "com.example.authentication_flutter_bloc"
+          "package_name": "com.example.authentication_flutter_firebase_bloc"
         }
       },
       "oauth_client": [
@@ -29,6 +29,13 @@
             {
               "client_id": "645183196811-6f237hrf292a6gfdf3qg6gfb8id9jt7i.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "645183196811-fetmq85e7alknc9rnk4agla5rnhb302j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authenticationFlutterBloc"
+              }
             }
           ]
         }
